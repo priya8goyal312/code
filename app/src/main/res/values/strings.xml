@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Career Navigator</string>
+    <string name="career_navigator">career navigator</string>
+    <string name="quality_education">Quality Of Education</string>
+    <string name="image_education">image education</string>
+    <string name="hello_welcome">Hello There, Welcome</string>
+    <string name="sign_in">Sign in to continue</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="sign_up">New User? Sign Up</string>
+    <string name="welcome">Welcome</string>
+    <string name="full_name">Full name</string>
+    <string name="newsign_up">Sign Up</string>
+    <string name="image3">image3</string>
+    <string name="Email">Email</string>
+    <string name="number">Phone No.</string>
+    <string name="create_acc">Create Account</string>
+    <string name="enter_class">Enter Class</string>
+
+   <string-array name="classes">
+
+       <item>9th</item>
+       <item>10th</item>
+       <item>11th</item>
+       <item>12th</item>
+
+   </string-array>
+
+    <string-array name="subjects">
+
+        <item>Hindi</item>
+        <item>English</item>
+        <item>History</item>
+        <item>Maths</item>
+        <item>Sanskrit</item>
+        <item>Science</item>
+
+    </string-array>
+
+
+</resources>

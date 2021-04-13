@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+
+<!--    yaha par button ki designing kar sakte hai then
+ isko banane ke baad button ke backgound me use kar sakte hai -->
+
+
+<!--    yaha se button ka color chnage kar lena -->
+    <solid android:color="#D81B60"/>
+
+    <corners android:radius="30dp"/>
+
+</shape>
+
